@@ -1,0 +1,9 @@
+ titanic_survival_predictor/
+├── data/train.csv                      # Dataset (from Kaggle)
+├── train_model.py                      # Model training and saving
+├── predict.py                          # CLI predictor
+├── app.py                              # Streamlit interface
+├── model.pkl                           # Saved model
+├── requirements.txt
+├── README.md
+└── .gitignore
